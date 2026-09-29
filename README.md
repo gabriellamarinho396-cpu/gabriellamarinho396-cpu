@@ -1,4 +1,4 @@
-## Hi there 👋
+## olá 👋
 
 <!--
 **gabriellamarinho396-cpu/gabriellamarinho396-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
